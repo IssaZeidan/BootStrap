@@ -5,8 +5,8 @@
 + We will create our first website
 
 ### What we will need
-+Idea of the website
-+Laptop or PC
-+VS code
++ Idea of the website
++ Laptop or PC
++ VS code
 
->*check the attached links for the results
+>* check the attached links for the results
